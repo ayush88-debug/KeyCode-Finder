@@ -7,7 +7,7 @@ window.addEventListener("keydown", function(e){
 
     insert.innerHTML= `
     <div class="color">
-              <h2>Tou have pressed ${key==' ' ? "Space" : key}</h2> <br>
+              <h2>You have pressed ${key==' ' ? "Space" : key}</h2> <br>
              <h4>KeyCode: ${keycode}    &nbsp;&nbsp;        Code: ${code}</h4>
     </div>
     `
