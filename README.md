@@ -2,7 +2,7 @@
 
 **KeyCode Finder** is a simple web tool that displays the key and its corresponding keycode whenever the user presses a key on their keyboard. This is helpful for developers and users to easily identify keycodes for various keyboard inputs.
 
-##Demo
+## Demo
 
 [Live Demo](https://ayush88-debug.github.io/KeyCode-Finder/)
 
